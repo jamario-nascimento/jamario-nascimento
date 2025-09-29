@@ -21,5 +21,5 @@ Angular • TypeScript • RxJS • PHP 8 • HTML/CSS/SCSS • MySQL/SQL Server
 - Melhorando performance (CDK, change detection, lazy routes).
 
 ## 📫 Contacto
-- [LinkedIn:_](https://www.linkedin.com/in/jamario-nascimento/)
-- [Email:] jamariobatista@gmail.com
+- LinkedIn:[Linkedin](https://www.linkedin.com/in/jamario-nascimento/)
+- Email: [Email] (jamariobatista@gmail.com)
